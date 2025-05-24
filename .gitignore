@@ -15,3 +15,6 @@ build/esp32-wifi-penetration-tool.bin
 build/esp32-wifi-penetration-tool.bin
 build/bootloader/bootloader.bin
 mods.patch
+build/bootloader/bootloader.bin
+build/esp32-wifi-penetration-tool.bin
+build/partition_table/partition-table.bin
